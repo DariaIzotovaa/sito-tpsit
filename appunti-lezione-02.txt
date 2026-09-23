@@ -1,0 +1,52 @@
+C:\Users\izoto>c:
+
+C:\Users\izoto>cd Lavoro-Temp
+
+C:\Users\izoto\Lavoro-Temp>mkdir 3Bi
+
+C:\Users\izoto\Lavoro-Temp> cd 3Bi
+
+C:\Users\izoto\Lavoro-Temp\3Bi>git clone https://github.com/DariaIzotovaa/sito-tpsit.git
+Cloning into 'sito-tpsit'...
+info: please complete authentication in your browser...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+C:\Users\izoto\Lavoro-Temp\3Bi>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 2E17-8F33
+
+ Directory of C:\Users\izoto\Lavoro-Temp\3Bi
+
+23/09/2026  17:54    <DIR>          .
+23/09/2026  17:52    <DIR>          ..
+23/09/2026  17:56    <DIR>          sito-tpsit
+               0 File(s)              0 bytes
+               3 Dir(s)  865.831.112.704 bytes free
+
+C:\Users\izoto\Lavoro-Temp\3Bi>cd
+C:\Users\izoto\Lavoro-Temp\3Bi
+
+C:\Users\izoto\Lavoro-Temp\3Bi>cd sito-tpsit
+
+C:\Users\izoto\Lavoro-Temp\3Bi\sito-tpsit>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+C:\Users\izoto\Lavoro-Temp\3Bi\sito-tpsit>git log
+commit 6711829403a520e63ff12f6486ef37afb29e5b8a (HEAD -> main, origin/main, origin/HEAD)
+Author: DariaIzotovaa <daria.izotova@marconirovereto.it>
+Date:   Wed Sep 23 17:46:35 2026 +0200
+
+    Initial commit
+
+C:\Users\izoto\Lavoro-Temp\3Bi\sito-tpsit>git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
