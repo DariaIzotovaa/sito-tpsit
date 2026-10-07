@@ -1,0 +1,6 @@
+1. git commit -m "FIX: aggiunto due file", bisogna specificare cosa si ha modificato.
+2. git commit -m "FEAT: scritto una riga", quando si fa un commit non si salva il messaggio con lettere a caso ma si scrive cosa si ha fatto.
+3. git commit -m "FIX: cambiato il codice per farlo funzionare, aggiungendo due righe", si specifica come hai fatto a farlo funzionare.
+4. git commit -m "FEAT: fatto blablabla", la data del commit si salva da sola ed e visualizzabile quindi non è da specificare.
+5. git commit -m "FIX: modificato pagina e file appunti", serve scrivere solo il minimo indispensabile.
+6. git commit -m "FIX: modificato …", si specifica cosa si ha fixato.
