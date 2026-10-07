@@ -1,0 +1,9 @@
+Z:\>git config --global user.name "Daria Izotova"
+
+Z:\>git config --global user.email "daria.izotova@marconirovereto.it"
+
+Z:\>git config --global --list
+user.name=Daria Izotova
+user.email=daria.izotova@marconirovereto.it
+init.defaultbranch=main
+pull.rebase=false
