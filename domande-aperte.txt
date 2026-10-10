@@ -1,2 +1,5 @@
 perchè quando ho cambiato gli appunti non c'è stato nessun commit?
 perchè non posso fare tutto in un commit ma devo farne tre?
+123e1c9 (HEAD -> main) FEAT: creazione file domande aperte
+45a8049 FEAT: aggiunzione due righe
+5e6fc60 "FIX: correzione errore"
