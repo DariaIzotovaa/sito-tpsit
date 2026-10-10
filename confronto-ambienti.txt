@@ -1,0 +1,21 @@
+1. Cosa ho osservato: La postazione C:\Lavoro-Temp\sito-tpsit in Git CMD si avvia subito
+ma serve fare la directory con cd, pure github e vscode funzionano velocemente, basta
+configurarli col proprio account, mentre codespace ci mette 1-2 minuti per partire. 
+Identità e autenticazione: ho dovuto fare git config --global user.name e user.email per
+configurarlo, senno mi dava Author identity unknown.
+Rete: si possono fare i comandi anche senza rete, ma nel codespace senza internet si blocca
+e non carica vscode.
+Quota: la postazione non ha limiti ma codespace ha la quota mensile gratis limitata e poi
+non si avvia più.
+Macchina diversa da lab: ho fatto i compiti a casa, configurando git e vscode sul pc di casa.
+
+2.Quale criterio di scelta ne ricavo: quando devo lavorare senza rete meglio scegliere la
+postazione perchè i comandi funzionano, mentre Codespace senza rete non funziona, ma lo uso
+per lavorare su un pc diverso da quello di scuola se non voglio configurare tutto.
+
+3. Ambiente meno comodo: secondo me codespace senza internet visto che non si avvia è molto
+scomodo, anche se non chiede di configurare. A casa ho dovuto rifare tutti i file e le
+directory nella cartella per fare gli esercizi, quindi dovevo configurarlo in ogni caso il
+repository, per fare gli esercizi correttamente. Poi su vscode per esempio quando si vuole
+creare un nuovo file nel repository invece che scrivere comandi add ecc ce il pulstantino 
+con il più e il gioco è fatto, stessa cosa per committare e sincronizzare i cambiamenti nel browser.
