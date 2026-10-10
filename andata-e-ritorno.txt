@@ -1,0 +1,3 @@
+Ho usato git pull e mi ha detto che c'era un file modificato
+407d4f4 (HEAD -> main, origin/main, origin/HEAD) Add last updated date to README
+non sono riuscita a fare git push ma secondo me avrebbe dato errore
