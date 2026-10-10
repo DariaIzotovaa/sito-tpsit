@@ -1,0 +1,2 @@
+perchè quando ho cambiato gli appunti non c'è stato nessun commit?
+perchè non posso fare tutto in un commit ma devo farne tre?
