@@ -1,0 +1,17 @@
+1. fatal: not a git repository (or any of the parent directories): .git
+non è una cartella git e non lìtrova la cartella.git, compare quando si apre la cartella sbagliata,
+basta andare nella cartella giusta facendo cd.
+
+2. Author identity unknown
+..* Please tell me who you are.
+l'identità dell'autore è sconosciuta, quando si fanno delle azioni senza aver configurato git,
+serve dichiararsi facendo git config --global user.name "nome" e git config --global user.email "email".
+
+3. ! [rejected] main .> main (fetch first)
+error: failed to push some refs to 'https:./github.com/...'
+le modifiche fatte sul repository non sono state trasferite al locale di github,
+quando si sono fatte modifiche online e si fa push senza prima aver fatto pull, serve fare git pull e git push.
+
+4. fatal: destination path 'sito-tpsit' already exists and is not an empty directory.
+la cartella sito-tpsit esiste già e non e vuota, quando si fa git clone col sito, 
+basta entrare nella cartella esistente con cd e fare git pull.
