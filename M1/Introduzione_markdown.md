@@ -10,7 +10,7 @@
 
 ###### sesto livello
 
-Inizio a scrivere normalmente per inserire un paragrafo.  
+Inizio a scrivere normalmente per inserire un paragrafo.   
 Sono andato a capo
 
 Sono andato a capo ancora
