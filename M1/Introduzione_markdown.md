@@ -78,7 +78,7 @@ Questo è un paragrafo normale
 
 ## Tabelle
 
-| Cognome | Nome | Voto |  
+| **Cognome** | **Nome** | **Voto** |  
 |:---|:---|---:|
 | Rossi | Marco | 9.5 |  
 | Bianchi | Gaia | 5 |   
@@ -88,3 +88,4 @@ Questo è un paragrafo normale
 - [x] Installazione del programma  
 - [x] Prima esecuzione  
 - [] Correzione degli errori
+
