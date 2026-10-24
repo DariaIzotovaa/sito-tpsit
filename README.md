@@ -50,3 +50,10 @@ Il repository contiene gli appunti delle lezioni in laboratorio e gli esercizi d
 Daria Izotova, classe 3Bi, ITT Marconi Rovereto.
 Lavoro svolto per il corso di Laboratorio di TPSIT, anno scolastico 2026/2027.
 
+## Collegamenti
+
+[Appunti di markdown](./appunti/appunti-markdown.md)  
+[Scheda album MDB](./appunti/scheda.md)  
+[Orario classe 3Bi](./appunti/orario.md)  
+![Repository Github](./appunti/repo-sito-tpsit.png)
+Screenshot della pagina del mio repository sito-tpsit su GitHub

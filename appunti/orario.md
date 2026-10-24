@@ -13,3 +13,5 @@
 |**10**| | |Inglese| |Informatica|
 
 L'orario è in vigore dall' **8 settembre 2026**.
+
+[Torna al README](../README.md)
