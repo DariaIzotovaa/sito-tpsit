@@ -31,4 +31,8 @@ I 5 **brani** con il maggior numero di ascoltatori sono:
 - [x] Spuntata
 - [ ] Non spuntata
 
-![Copertina album](./Anna-album.jpg)
+![Copertina album](./anna-album.jpg)
+
+## Confronto tra le due rese
+
+Ho controllato come si vede la pagina sia nell'anteprima di visual studio code sia su GitHub dopo aver fatto il commit e ci sono delle differenze: la tabella e la casella di spunta restano praticamente uguali da entrambe le parti, perché sia Visual Studio Code che GitHub usano lo stesso linguaggio, il gitHub flavored markdown, quindi leggono i simboli allo stesso modo. Il problema è l'immagine, che sull' anteprima di visual studio code si vedeva benissimo ma su GitHub non è visibile. Il computer non fa caso se nel percorso scrivo una lettera maiuscola al posto di una minuscola e me la carica lo stesso. Invece, GitHub lo conta come errore (essendo case sensitive): se sbaglio anche solo una maiuscola, il sistema si confonde e non trova più il file dell'immagine.
