@@ -20,3 +20,15 @@ I 5 **brani** con il maggior numero di ascoltatori sono:
 > «Non è che il disco è brutto, monocorde, mal curato, inascoltabile: è solo che non sei tu il target»
 
 [Torna al README](../README.md)
+
+
+| Colonna 1 | Colonna 2 | Colonna 3 |
+| :---: | :---: | :---: |
+| Riga 1 | 1 | 1 |
+| Riga 2 | 2 | 2 |
+| Riga 3 | 3 | 3 |
+
+- [x] Spuntata
+- [ ] Non spuntata
+
+![Copertina album](./Anna-album.jpg)
