@@ -8,6 +8,14 @@ Il repository contiene esercizi del modulo M0, appunti del modulo M1 e esercizi 
 
 È un progetto didattico, serve per imparare ad usare Git, GitHub e VS Code.
 
+## Progetto del corso
+
+Ho scelto le Las Vegas Aces per il mio sito html, è una squadra della WNBA e mi ispirano tanto. Sono alte in classifica e giocano infatti contro altre squadre della Woman NBA. Il sito arriverà ad avere quattro pagine:
+- Una pagina principale (generali sull?argomento);
+- Una pagina di approfondimento con elenchi (giocatrici e caratteristiche) e almeno un'immagine; 
+- Una pagina con una tabella di dati (classifiche delle partite);
+- Una pagina con un modulo di inserimento dati.
+
 ## Come si consulta
 
 Il repository contiene gli appunti delle lezioni in laboratorio e gli esercizi dei moduli M0 e M1, che si leggono aprendo i file della cartella
