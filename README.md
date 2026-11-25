@@ -11,7 +11,7 @@ Il repository contiene esercizi del modulo M0, appunti del modulo M1 e esercizi 
 ## Progetto del corso
 
 Ho scelto le Las Vegas Aces per il mio sito html, è una squadra della WNBA e mi ispirano tanto. Sono alte in classifica e giocano infatti contro altre squadre della Woman NBA. Il sito arriverà ad avere quattro pagine:
-- Una pagina principale (generali sull?argomento);
+- Una pagina principale (generali sull'argomento);
 - Una pagina di approfondimento con elenchi (giocatrici e caratteristiche) e almeno un'immagine; 
 - Una pagina con una tabella di dati (classifiche delle partite);
 - Una pagina con un modulo di inserimento dati.
